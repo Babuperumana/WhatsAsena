@@ -18,7 +18,7 @@
 ## 🇬🇧 English Support 
 As of version 0.8, we added English language support. When deploying Heroku, only write `EN` to LANGUAGE. [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide](https://github.com/Quiec/WhatsAsena/wiki/Set-Up)
+> [Install Guide](https://github.com/Babuperumana/WhatsAsena/wiki/Set-Up)
 
 > Həm də Azərbaycan dilində AZ yazmaq kifayətdir.
 
@@ -32,7 +32,7 @@ As of version 0.8, we added English language support. When deploying Heroku, onl
 `Üzerinde Çalışıyoruz...`
 
 ### Basit Yöntem
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Babuperumana/WhatsAsena)
 
 ### Zor Yöntem
 ```js
